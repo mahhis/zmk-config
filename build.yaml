@@ -13,7 +13,5 @@
 #
 ---
 include:
-  - board: nice_nano
-    shield: bfo9000_left
-  - board: nice_nano
-    shield: bfo9000_right
+  - board: skean_left
+  - board: skean_right
